@@ -1,0 +1,185 @@
+body, html{
+    background-image: url("cabback.jpg");
+    width: 98%;
+    height: 98%;
+    font-family: Trebuchet MS, sans-serif;
+}
+#box{
+    border: 2px solid white;
+    background-color: rgba(128, 128, 128, 0.4);
+    border-color: whitesmoke;
+    width: 600px;
+    height: 625px;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px;
+    position: relative;
+    top: 130px;
+    left: 670px;
+}
+#title{
+    color: #FFFFE0;
+    opacity: 0.4px;
+    position: relative;
+    top: 0px;
+    left: 165px;
+}
+#stitle{
+    position: relative;
+    top: -35px;
+    font-size: 20px;
+    left: 95px;
+    color: #FFFFE0;
+}
+#cno{
+    color: #FFFFE0;
+    position: relative;
+    top: -35px;
+    left: 15px;
+    font-size: 15px;
+}
+#pno{
+    color: #FFFFE0;
+    position: relative;
+    top: -65px;
+    left: 405px;
+    font-size: 15px;
+}
+hr{
+    border: 2px solid black;
+    border-color: whitesmoke;
+    position: relative;
+    top: 50px;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px;
+}
+#name{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 60px;
+    top: -50px;
+    color: black;
+    font-family: Trebuchet MS, sans-serif;
+}
+#namei{
+    width: 300px;
+    height: 30px;
+    padding-left: 10px;
+    font-size: 25px;
+    border-color: white;
+    background-color: rgba(128, 128, 128, 0);
+    position: relative;
+    top: -105px;
+    left: 170px;
+    color: white;
+    font-family: Trebuchet MS, sans-serif;
+}
+#no{
+    position: relative;
+    margin-top: 05px;
+    margin-left: 10px;
+    top: -60px;
+    color: black;
+    font-family: Trebuchet MS, sans-serif;
+}
+#noi{
+    width: 300px;
+    height: 30px;
+    padding-left: 10px;
+    font-size: 25px;
+    border-color: white;
+    background-color: rgba(128, 128, 128, 0);
+    position: relative;
+    top: -115px;
+    left: 270px;
+    color: white;
+    font-family: Trebuchet MS, sans-serif;
+}
+#ploc{
+    position: relative;
+    margin-top: 05px;
+    margin-left: 10px;
+    top: -80px;
+    color: black;
+    font-family: Trebuchet MS, sans-serif;
+}
+    #ploci{
+    width: 300px;
+    height: 30px;
+    padding-left: 10px;
+    font-size: 25px;
+    border-color: white;
+    background-color: rgba(128, 128, 128, 0);
+    position: relative;
+    top: -135px;
+    left: 270px;
+    color: white;
+    padding-bottom: -10px;
+    color: white;
+    font-family: Trebuchet MS, sans-serif;
+}
+#ploci option{
+    background-color: rgba(255, 255, 255, 0.9);
+    color: black;
+    font-family: Trebuchet MS, sans-serif;
+}
+#dloc{
+    position: relative;
+    margin-top: 05px;
+    margin-left: 10px;
+    top: -90px;
+    left: 15px;
+    color: black;
+    font-family: Trebuchet MS, sans-serif;
+}
+#dloci{
+    width: 300px;
+    height: 30px;
+    padding-left: 10px;
+    font-size: 25px;
+    border-color: white;
+    background-color: rgba(128, 128, 128, 0);
+    position: relative;
+    top: -145px;
+    left: 270px;
+    color: white;
+    padding-bottom: -10px;
+    color: white;
+    font-family: Trebuchet MS, sans-serif;
+}
+#dloci option{
+    background-color: rgba(255, 255, 255, 0.9);
+    color: black;
+    font-family: Trebuchet MS, sans-serif;
+}
+#otp{
+    position: relative;
+    margin-top: 05px;
+    margin-left: 10px;
+    top: -100px;
+    left: 165px;
+    color: black;
+    font-family: Trebuchet MS, sans-serif;
+}
+#otpi{
+    width: 75px;
+    height: 30px;
+    padding-left: 10px;
+    font-size: 25px;
+    border-color: white;
+    background-color: rgba(255, 255, 255, 1);
+    position: relative;
+    top: -160px;
+    left: 270px;
+    color: black;
+    font-family: Trebuchet MS, sans-serif;
+}
+#button{
+    width: 170px;
+    height: 40px;
+    border-color: white;
+    position: relative;
+    top: -100px;
+    left: 120px;
+    font-size: 25px;
+    font-family: Trebuchet MS, sans-serif;
+    background-color: orange;
+    border-radius: 10px;
+}
